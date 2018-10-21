@@ -1,0 +1,19 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: 'Niramit', sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+  align-content: center;
+}
+
+h1 {
+  color: red;
+  padding: 20px 0px 10px 0px;
+}
+
+a {
+color: #69CBBB;
+text-decoration: none;
+}
