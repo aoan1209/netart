@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-image: url(images/normalearth.jpg);
+  background-image: url(images/crystalball1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -18,6 +18,8 @@ body {
 h1 {
   color: white;
   padding: 20px 0px 10px 0px;
+  text-decoration: underline;
+}
 
 a {
 color: white;
